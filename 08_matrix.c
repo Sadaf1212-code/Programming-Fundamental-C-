@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include<stdio.h>
+#include<stdlib.h>
 #define SIZE 3
 
 /* Helper: input a SIZE×SIZE matrix */
